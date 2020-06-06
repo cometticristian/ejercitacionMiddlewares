@@ -1,0 +1,67 @@
+El usuario ingresó a la ruta: /El usuario ingresó a la ruta: /users/registerEl usuario ingresó a la ruta: /users/El usuario ingresó a la ruta: /users//nEl usuario ingresó a la ruta: /users/magua/nEl usuario ingresó a la ruta: /users/magua/log
+El usuario ingresó a la ruta: /users
+El usuario ingresó a la ruta: /main
+El usuario ingresó a la ruta: /users
+
+El usuario ingresó a la ruta: /
+
+El usuario ingresó a la ruta: /users/admin?
+
+El usuario ingresó a la ruta: /users
+
+El usuario ingresó a la ruta: /
+
+El usuario ingresó a la ruta: /
+
+El usuario ingresó a la ruta: /users/admin?
+
+El usuario ingresó a la ruta: /users
+
+El usuario ingresó a la ruta: /
+
+El usuario ingresó a la ruta: /users/admin?user=Tim
+
+El usuario ingresó a la ruta: /users/admin?user=Vim
+
+El usuario ingresó a la ruta: /users/admin?user=asd
+
+El usuario ingresó a la ruta: /users/admin?user=asd
+
+El usuario ingresó a la ruta: /users/admin?user=asd
+
+El usuario ingresó a la ruta: /users/admin?user=asd
+
+El usuario ingresó a la ruta: /users/admin?user=Tim
+
+El usuario ingresó a la ruta: /users/admin?user=Tim
+
+El usuario ingresó a la ruta: /users/admin?user=Ada
+
+El usuario ingresó a la ruta: /users/admin?user=magua
+
+El usuario ingresó a la ruta: /users/admin?user=Tim
+
+El usuario ingresó a la ruta: /users/admin?user=tim
+
+El usuario ingresó a la ruta: /users/admin?user=Tim
+
+El usuario ingresó a la ruta: /users/admin?user=Tim
+
+El usuario ingresó a la ruta: /users/admin?user=magua
+
+El usuario ingresó a la ruta: /users/admin?user=asd
+
+El usuario ingresó a la ruta: /users/admin?user=Ada
+
+El usuario ingresó a la ruta: /users/admin?user=qwe
+
+El usuario ingresó a la ruta: /users/admin?user=qwe
+
+El usuario ingresó a la ruta: /users/admin?user=234
+
+El usuario ingresó a la ruta: /users/admin?user=dgj
+
+El usuario ingresó a la ruta: /users/admin?user=Vim
+
+El usuario ingresó a la ruta: /users/admin?user=Vim
+
